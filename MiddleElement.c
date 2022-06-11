@@ -17,5 +17,7 @@ int main(){
 	{
 	printf("The middle element is: %d",a[(n+2)/2]);
 	}
+	// 2nd method 
+	//printf("The middle element %d",a[(n+2)/2]);
 	return 0;
 }
